@@ -1,0 +1,28 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    arlo (0.0.8)
+    curb (0.9.10)
+    dotenv (2.7.2)
+    mustermann (1.0.3)
+    rack (2.0.7)
+    rack-protection (2.0.5)
+      rack
+    sinatra (2.0.5)
+      mustermann (~> 1.0)
+      rack (~> 2.0)
+      rack-protection (= 2.0.5)
+      tilt (~> 2.0)
+    tilt (2.0.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  arlo
+  curb
+  dotenv
+  sinatra
+
+BUNDLED WITH
+   2.0.1
