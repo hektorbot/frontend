@@ -20,7 +20,6 @@ else
 end
 
 
-exit
 ### Serveur http expose client
 get "/" do
   erb :index
